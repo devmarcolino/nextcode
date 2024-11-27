@@ -38,6 +38,15 @@ span {
     font-weight: 300;
 }
 
+#services {
+    display: flex;
+    gap: 2rem;
+}
+
+.txt {
+   line-height: 3rem; 
+}
+
 .text-two {
     margin: 3rem 0rem;
     font-weight: 300;
@@ -226,11 +235,11 @@ header {
 
 /* services */
 
-#services {
+#valores {
     padding: 4rem 4rem;
 }
 
-#services h1{
+#valores h1{
     text-align: center;
     margin-bottom: 2rem;
 }
